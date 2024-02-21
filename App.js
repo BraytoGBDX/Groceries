@@ -3,7 +3,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <View>
+    <View style={styles.container}>
       <Text>App</Text>
     </View>
   )
